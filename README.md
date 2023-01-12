@@ -55,10 +55,9 @@ Inspired by ...
     Authors.
 
 
-<details><summary> more </summary> 
+[//]: # (<details><summary> more </summary>)
 
-
-</details>
+[//]: # (</details>)
 
 ### [Gradient based methods](#content)
 1. **Title.** Journal Year. [paper](www.google.es)
