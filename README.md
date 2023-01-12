@@ -36,7 +36,7 @@ Inspired by ...
 
 ## [SMILEs based molecular generation](#content)   
 
-### [Gradiend free methods](#content)
+### [Gradient free methods](#content)
 1. **Title.** Journal Year. [paper](www.google.es)
     Authors.
 
