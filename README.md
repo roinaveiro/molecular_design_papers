@@ -24,19 +24,54 @@ Inspired by ...
 </table>
 
 ## [Survey papers](#content)
-1. **Introduction to Graph Neural Networks.** Synthesis Lectures on Artificial Intelligence and Machine Learning, Morgan & Claypool Publishers, 2020. [book](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045)
+1. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
 
-    *Zhiyuan Liu, Jie Zhou.* 
+2. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
+
+3. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
+
+4. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
+
+5. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
 
 
 ## [SMILEs based molecular generation](#content)   
+1. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
+
+2. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
+
+3. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
+
+4. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
+
+5. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
 
 ### [Gradiend free methods](#content)
-1. **Title.** Journal Year. [paper](https://ieeexplore.ieee.org/abstract/document/572108)
+1. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
 
-    *Authors.*
+2. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
 
-  
+3. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
+
+4. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
+
+5. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
+
 
 <details><summary> more </summary> 
 
@@ -45,6 +80,20 @@ Inspired by ...
      </details>
 
 ### [Gradient based methods](#content)
+1. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
+
+2. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
+
+3. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
+
+4. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
+
+5. **Title.** Journal Year. [paper](www.google.es)
+    Authors.
 
 ## [Graph based methods](#content)
 
